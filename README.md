@@ -18,17 +18,17 @@ I design end-to-end customer experiences across complex domains including travel
 
 ## 💼 Selected work
 
-### Tabcorp — Withdrawal Block Experience
+### Tabcorp- Withdrawal Block Experience
 - Led redesign of withdrawal restriction experience across web and app
 - Improved clarity of resolution pathways for customers
 - Achieved **97% reduction in digital feedback related to blocked withdrawals**
 - Reduced a two-day customer feedback loop through UX improvements
 
-### Qantas — Help & Support Experience
+### Qantas- Help & Support Experience
 - Redefined support journey by consolidating fragmented channels into a unified experience
 - Improved discoverability and reduced customer friction across support pathways
 
-### Qantas — Frequent Flyer & Loyalty Experiences
+### Qantas- Frequent Flyer & Loyalty Experiences
 - Designed end-to-end improvements across shopping, loyalty, and rewards ecosystems
 - Led discovery and UX redesign work informed by Voice of Customer insights
 

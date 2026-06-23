@@ -38,19 +38,7 @@ I design end-to-end customer experiences across complex domains including travel
 
 ---
 
-## 🧠 What I focus on
-
-- End-to-end UX and product thinking  
-- Designing for complex systems and constraints  
-- Turning research into actionable design decisions  
-- Improving operational efficiency through UX  
-- Accessible, inclusive design
-
----
-
 ## 📁 Portfolio
-
-Selected product design work and case studies presented as interactive UX flows.
 
 View my portfolio (Figma prototype best viewed on Desktop):  
 https://www.figma.com/proto/LBiQDNuSi3LYMTLgfdxsjO/Portfolio?page-id=0%3A1&node-id=2-2372&viewport=220%2C154%2C0.18&t=jvCIw6w8G69xffEd-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2%3A2372
